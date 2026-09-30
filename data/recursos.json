@@ -20,5 +20,16 @@
     "fuente": "Editorial Académica",
     "url": "https://example.com/estadistica-sociales",
     "descripcion": "Manual con conceptos básicos y aplicaciones estadísticas en ciencias sociales."
+  },
+  {
+    "id": 3,
+    "titulo": "Fundamentos de diseño de investigación",
+    "tipo": "articulo",
+    "tema": "investigacion",
+    "nivel": "avanzado",
+    "autor": "Centro de Estudios Académicos",
+    "fuente": "Repositorio institucional",
+    "url": "https://example.com/diseno-investigacion",
+    "descripcion": "Artículo que presenta conceptos clave para formular investigaciones con rigor metodológico."
   }
 ]
