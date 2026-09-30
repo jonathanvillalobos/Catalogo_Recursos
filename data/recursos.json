@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "titulo": "Introducción a Python",
+    "tipo": "curso",
+    "tema": "programacion",
+    "nivel": "basico",
+    "autor": "Universidad de Python",
+    "fuente": "Plataforma educativa",
+    "url": "https://example.com/python-basico",
+    "descripcion": "Curso introductorio para aprender fundamentos de Python."
+  },
+  {
+    "id": 2,
+    "titulo": "Estadística para ciencias sociales",
+    "tipo": "libro",
+    "tema": "estadistica",
+    "nivel": "intermedio",
+    "autor": "Dr. Ana López",
+    "fuente": "Editorial Académica",
+    "url": "https://example.com/estadistica-sociales",
+    "descripcion": "Manual con conceptos básicos y aplicaciones estadísticas en ciencias sociales."
+  }
+]
