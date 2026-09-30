@@ -46,3 +46,10 @@ Ejecuta la aplicación desde la carpeta principal:
 ```bash
 python app/main.py
 ```
+
+## Próximas mejoras
+- Añadir una interfaz más amigable para consultar recursos académicos.
+- Incorporar filtros por tipo, tema, nivel y autor.
+- Permitir guardar recursos favoritos y exportarlos en distintos formatos.
+- Mejorar la validación y la gestión de datos en el archivo JSON.
+- Expandir la documentación con ejemplos de uso y casos de prueba.
