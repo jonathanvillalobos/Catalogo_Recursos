@@ -19,6 +19,16 @@ Crear una solución inicial para registrar recursos educativos y académicos, co
 - Markdown para documentación
 - pytest para pruebas básicas
 
+## Tipos de recursos
+El catálogo puede incluir distintos formatos de material académico, entre ellos:
+- Libros
+- Artículos científicos
+- Videos educativos
+- Cursos en línea
+- Presentaciones
+- Documentos técnicos
+- Guías de estudio
+
 ## Preparación del entorno
 1. Crear un entorno virtual:
    ```bash
