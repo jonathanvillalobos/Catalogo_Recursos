@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.1.1] - 2026-10-02
+### Agregado
+- Se incorporó documentación adicional con fuentes recomendadas para recursos académicos.
+- Se ampliaron los criterios de clasificación para incluir accesibilidad y licencia de uso.
+
 ## [0.1.0] - 2026-09-30
 ### Agregado
 - Creación de la estructura inicial del proyecto.
