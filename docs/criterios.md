@@ -42,4 +42,20 @@ Permite evaluar la vigencia y relevancia del recurso en el tiempo.
 ## 6. Idioma
 Identifica el idioma en que está redactado o presentado el contenido.
 
+## 7. Accesibilidad
+Evalúa si el recurso puede ser consultado con facilidad por distintos públicos, por ejemplo:
+- Acceso libre
+- Acceso restringido
+- Requiere inscripción
+- Compatible con lectura en pantalla
+- Incluye subtítulos o transcripciones
+
+## 8. Licencia o derechos de uso
+Indica cómo puede reutilizarse el contenido y si se permite uso académico, modificación o distribución:
+- Dominio público
+- Creative Commons
+- Copyright
+- Uso libre para fines educativos
+- Restricciones de reproducción
+
 Estos criterios ayudan a estructurar el catálogo y a facilitar la búsqueda de materiales adecuados para distintos objetivos académicos.
